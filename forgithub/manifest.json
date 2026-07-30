@@ -1,0 +1,1409 @@
+[
+ {
+  "file": "ELD12_Wk01_Day01_Mon.png",
+  "course": "ELD12",
+  "week": 1,
+  "day": "Mon",
+  "daynum": 1,
+  "scene": "The door of Room 150",
+  "skip": "photo",
+  "note": "Room 150 door"
+ },
+ {
+  "file": "ELD12_Wk01_Day02_Tue.png",
+  "course": "ELD12",
+  "week": 1,
+  "day": "Tue",
+  "daynum": 2,
+  "scene": "()",
+  "skip": "text_bearing",
+  "note": "five-script welcome"
+ },
+ {
+  "file": "ELD12_Wk01_Day04_Thu.png",
+  "course": "ELD12",
+  "week": 1,
+  "day": "Thu",
+  "daynum": 4,
+  "scene": "Warm flat-illustration of a high school classroom: one teen at a desk looks politely confused, small question marks above their head, hand starting to rise, diverse classmates working; hopeful mood, no text in image.” Normalize confusion on day 4, on purpose. Today we learn what to SAY when we're lost",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk01_Day05_Fri.png",
+  "course": "ELD12",
+  "week": 1,
+  "day": "Fri",
+  "daynum": 5,
+  "scene": "Flat illustration, warm colors: two diverse teens greeting each other in a bright school hallway with lockers, two large EMPTY speech bubbles above them, no text anywhere in the image.” The empty bubbles preview today's mini-dialogue. Take 3–4 student versions and read them aloud",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk02_Day06_Mon.png",
+  "course": "ELD12",
+  "week": 2,
+  "day": "Mon",
+  "daynum": 6,
+  "scene": "A warm 2×3 grid of six diverse high-school student portraits (East African, Central American, Middle Eastern, Southeast Asian, Haitian, Afghan), each with a small home-country flag below, flat illustration, friendly, no text.” Bridge from Week 1: we described ourselves; now we describe PEOPLE. Fish for 'he' and 'she' in student answers",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk02_Day07_Tue.png",
+  "course": "ELD12",
+  "week": 2,
+  "day": "Tue",
+  "daynum": 7,
+  "scene": "Flat illustration, top-down view: an open teen backpack with items arranged around it — notebook, pencils, smartphone, charger, keys, small family photo, granola bar — bright colors, no text.” The family photo in the image is deliberate — it seeds 'I have a family' language without forcing anyone's story",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk02_Day09_Thu.png",
+  "course": "ELD12",
+  "week": 2,
+  "day": "Thu",
+  "daynum": 9,
+  "scene": "Flat illustration: teen with a smartphone held like a microphone playfully interviewing another teen, colorful question marks floating above, school setting, energetic, no text.” Play up the celebrity-interview angle — today everyone is famous for 3 questions",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk02_Day10_Fri.png",
+  "course": "ELD12",
+  "week": 2,
+  "day": "Fri",
+  "daynum": 10,
+  "scene": "()",
+  "skip": "text_bearing",
+  "note": "school form with field labels"
+ },
+ {
+  "file": "ELD12_Wk03_Day11_Mon.png",
+  "course": "ELD12",
+  "week": 3,
+  "day": "Mon",
+  "daynum": 11,
+  "scene": "Room 150 — our room",
+  "skip": "photo",
+  "note": "Room 150 interior"
+ },
+ {
+  "file": "ELD12_Wk03_Day12_Tue.png",
+  "course": "ELD12",
+  "week": 3,
+  "day": "Tue",
+  "daynum": 12,
+  "scene": "Flat illustration of a classroom desk scene with five identical orange cats: one inside an open backpack, one on the desk, one under the chair, one next to a laptop, one peeking from behind a stack of books — cute, clean, no text.” Cats because cats win. Five positions in one image = the whole lesson previewed",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk03_Day14_Thu.png",
+  "course": "ELD12",
+  "week": 3,
+  "day": "Thu",
+  "daynum": 14,
+  "scene": "()",
+  "skip": "photo",
+  "note": "Hoover campus map"
+ },
+ {
+  "file": "ELD12_Wk03_Day15_Fri.png",
+  "course": "ELD12",
+  "week": 3,
+  "day": "Fri",
+  "daynum": 15,
+  "scene": "A friendly flat illustration of an open toolbox with six labeled slots; slot 1 glows golden with a small speech-bubble icon, slots 2–6 are gray silhouettes; warm colors, celebratory, no text except the number 1.” Self-assessment disguised as a Do Now. Mirror their student map — hold the paper map up next to the screen",
+  "skip": null,
+  "panels": false,
+  "source": "deck speaker notes"
+ },
+ {
+  "file": "ELD12_Wk04_Day16_Mon.png",
+  "course": "ELD12",
+  "week": 4,
+  "day": "Mon",
+  "daynum": 16,
+  "scene": "Wide photo strip: a teen waking up, eating breakfast, and walking to the bus stop — three clear moments, left to right, in order",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk04_Day17_Tue.png",
+  "course": "ELD12",
+  "week": 4,
+  "day": "Tue",
+  "daynum": 17,
+  "scene": "Photo of a City Heights bus stop in the morning — students waiting, a bus arriving. Something in the frame suggests time of day without any numerals",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk04_Day19_Thu.png",
+  "course": "ELD12",
+  "week": 4,
+  "day": "Thu",
+  "daynum": 19,
+  "scene": "Photo: a school courtyard at lunch, one table where a student sits alone reading — quiet, not sad. Something in the frame is absent or unused",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk04_Day20_Fri.png",
+  "course": "ELD12",
+  "week": 4,
+  "day": "Fri",
+  "daynum": 20,
+  "scene": "Photo strip of four moments across one day — morning, school, afternoon, evening — same student, left to right in order",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk05_Day21_Tue.png",
+  "course": "ELD12",
+  "week": 5,
+  "day": "Tue",
+  "daynum": 21,
+  "scene": "A teenager sitting close beside a younger child, both looking at an open picture book. The teen is pointing at the page. Warm afternoon light",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk05_Day23_Thu.png",
+  "course": "ELD12",
+  "week": 5,
+  "day": "Thu",
+  "daynum": 23,
+  "scene": "Close photo of a classroom word wall covered in hand-written cards in many languages, with students standing near it, one reaching up",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk05_Day24_Fri.png",
+  "course": "ELD12",
+  "week": 5,
+  "day": "Fri",
+  "daynum": 24,
+  "scene": "A student at a Chromebook, hand on the trackpad, a classmate leaning in to help point at the screen",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk06_Day25_Mon.png",
+  "course": "ELD12",
+  "week": 6,
+  "day": "Mon",
+  "daynum": 25,
+  "scene": "A wide photo of the school courtyard at passing period — many students doing many different things at the same time",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk06_Day26_Tue.png",
+  "course": "ELD12",
+  "week": 6,
+  "day": "Tue",
+  "daynum": 26,
+  "scene": "A simple drawn overhead map of a school campus — buildings, courtyard, field, gym — with colored shapes marking different areas and a color key in the corner",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk06_Day28_Thu.png",
+  "course": "ELD12",
+  "week": 6,
+  "day": "Thu",
+  "daynum": 28,
+  "scene": "A three-panel picture story: a student drops their books in a hallway, a classmate stops to help pick them up, the two walk away talking",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk06_Day29_Fri.png",
+  "course": "ELD12",
+  "week": 6,
+  "day": "Fri",
+  "daynum": 29,
+  "scene": "The same courtyard photo from Monday. Third time this week — the picture is familiar now, so all the effort goes into the language",
+  "skip": "reuse",
+  "note": "ELD12_Wk06_Day25_Mon.png"
+ },
+ {
+  "file": "ELD12_Wk07_Day30_Mon.png",
+  "course": "ELD12",
+  "week": 7,
+  "day": "Mon",
+  "daynum": 30,
+  "scene": "A classroom mid-lesson: one student's hand is half-raised, not fully committed. Around them, other students are working. The teacher hasn't noticed yet",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk07_Day31_Tue.png",
+  "course": "ELD12",
+  "week": 7,
+  "day": "Tue",
+  "daynum": 31,
+  "scene": "A teacher crouched beside a student's desk, both looking at the same page, the teacher's hand open in an explaining gesture. The student looks like they're getting it",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk07_Day33_Thu.png",
+  "course": "ELD12",
+  "week": 7,
+  "day": "Thu",
+  "daynum": 33,
+  "scene": "Two students side by side at a table, one leaning over to point at the other's work, both concentrating. Peer help, not teacher help",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk07_Day34_Fri.png",
+  "course": "ELD12",
+  "week": 7,
+  "day": "Fri",
+  "daynum": 34,
+  "scene": "A student's hand passing a folded piece of paper to a teacher's open hand. Both hands, mid-exchange. You can't see what the paper says",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk08_Day35_Mon.png",
+  "course": "ELD12",
+  "week": 8,
+  "day": "Mon",
+  "daynum": 35,
+  "scene": "A family table mid-meal — several dishes, hands reaching, people talking. Not a photo of food; a photo of people eating together",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk08_Day36_Tue.png",
+  "course": "ELD12",
+  "week": 8,
+  "day": "Tue",
+  "daynum": 36,
+  "scene": "Students in the lunch line, trays out, choosing between options. One student is clearly deciding",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk08_Day38_Thu.png",
+  "course": "ELD12",
+  "week": 8,
+  "day": "Thu",
+  "daynum": 38,
+  "scene": "Three students at a small neighborhood store counter after school, one holding something, all talking. The everyday economy of a school afternoon",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk08_Day39_Fri.png",
+  "course": "ELD12",
+  "week": 8,
+  "day": "Fri",
+  "daynum": 39,
+  "scene": "A three-panel strip: someone eating quickly in the morning, the school cafeteria at midday, a family table in the evening",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk09_Day40_Mon.png",
+  "course": "ELD12",
+  "week": 9,
+  "day": "Mon",
+  "daynum": 40,
+  "scene": "Two teenagers interviewing each other — one holding a clipboard and asking, the other answering with a hand gesture, both engaged",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk09_Day41_Tue.png",
+  "course": "ELD12",
+  "week": 9,
+  "day": "Tue",
+  "daynum": 41,
+  "scene": "A small child asking an older sibling something, the teenager crouched down mid-answer, patient. The endless 'why' of a younger kid",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk09_Day43_Thu.png",
+  "course": "ELD12",
+  "week": 9,
+  "day": "Thu",
+  "daynum": 43,
+  "scene": "A classroom in quiet work — students at desks, focused, one raising a hand, the teacher moving between rows. Ordinary and calm",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk09_Day44_Fri.png",
+  "course": "ELD12",
+  "week": 9,
+  "day": "Fri",
+  "daynum": 44,
+  "scene": "The Day-1 picture prompt — 'Finding a Seat.' The same image students described on their very first day, back on the screen",
+  "skip": "reuse",
+  "note": "ELD12_Day1_FindingASeat.png"
+ },
+ {
+  "file": "ELD12_Wk10_Day45_Tue.png",
+  "course": "ELD12",
+  "week": 10,
+  "day": "Tue",
+  "daynum": 45,
+  "scene": "A City Heights street corner where a bus stop and a trolley platform are both visible. A student stands between them, deciding",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk10_Day47_Thu.png",
+  "course": "ELD12",
+  "week": 10,
+  "day": "Thu",
+  "daynum": 47,
+  "scene": "Two people at a street corner, one pointing left while the other listens and looks that direction. A moment of directions being given",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk10_Day48_Fri.png",
+  "course": "ELD12",
+  "week": 10,
+  "day": "Fri",
+  "daynum": 48,
+  "scene": "A wide City Heights street in afternoon light with several ways to travel visible at once — people walking, a bike, a bus, a trolley in the distance",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk11_Day49_Mon.png",
+  "course": "ELD12",
+  "week": 11,
+  "day": "Mon",
+  "daynum": 49,
+  "scene": "A neighborhood gathering after dark — strung lights, a long table of food, people of several ages talking and eating, someone playing music",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk11_Day50_Tue.png",
+  "course": "ELD12",
+  "week": 11,
+  "day": "Tue",
+  "daynum": 50,
+  "scene": "Hands preparing for a celebration — folding paper decorations, arranging flowers, stirring a pot. Several pairs of hands, no faces needed",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk11_Day52_Thu.png",
+  "course": "ELD12",
+  "week": 11,
+  "day": "Thu",
+  "daynum": 52,
+  "scene": "A diptych: two celebration tables side by side, clearly different from each other — different food, different colors, different people — both warm, both full",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD12_Wk11_Day53_Fri.png",
+  "course": "ELD12",
+  "week": 11,
+  "day": "Fri",
+  "daynum": 53,
+  "scene": "The classroom itself — students showing each other photos and objects on their desks, leaning in, several small conversations at once",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk12_Day54_Mon.png",
+  "course": "ELD12",
+  "week": 12,
+  "day": "Mon",
+  "daynum": 54,
+  "scene": "A student at the front office counter, leaning in slightly to ask something. An adult on the other side is listening, not rushing them",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk12_Day55_Tue.png",
+  "course": "ELD12",
+  "week": 12,
+  "day": "Tue",
+  "daynum": 55,
+  "scene": "A student walking home in late afternoon light, backpack on, thinking. A day already finished behind them",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk12_Day57_Thu.png",
+  "course": "ELD12",
+  "week": 12,
+  "day": "Thu",
+  "daynum": 57,
+  "scene": "A student's hands at a keyboard, screen turned mostly away, a moment of pausing before hitting send",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk12_Day58_Fri.png",
+  "course": "ELD12",
+  "week": 12,
+  "day": "Fri",
+  "daynum": 58,
+  "scene": "A diptych: two classrooms that are clearly different from each other — different desks, different light, different arrangements — both full of students, both working",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD12_Wk13_Day59_Mon.png",
+  "course": "ELD12",
+  "week": 13,
+  "day": "Mon",
+  "daynum": 59,
+  "scene": "A student sitting on the edge of a cot in a school health office, talking to a nurse who is listening. Calm, unhurried, not an emergency",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk13_Day60_Tue.png",
+  "course": "ELD12",
+  "week": 13,
+  "day": "Tue",
+  "daynum": 60,
+  "scene": "Two students sitting on outdoor steps, one talking earnestly, the other listening. A conversation where advice is being given",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk13_Day62_Thu.png",
+  "course": "ELD12",
+  "week": 13,
+  "day": "Thu",
+  "daynum": 62,
+  "scene": "A student mid-conversation with a teacher in a hallway, gesturing while explaining something that already happened",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk13_Day63_Fri.png",
+  "course": "ELD12",
+  "week": 13,
+  "day": "Fri",
+  "daynum": 63,
+  "scene": "A small group of students around a table, one leaning forward mid-point while the others listen and one starts to respond. Real discussion",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk14_Day64_Mon.png",
+  "course": "ELD12",
+  "week": 14,
+  "day": "Mon",
+  "daynum": 64,
+  "scene": "A diptych: the same student relaxed and laughing with friends outdoors, then upright and attentive in a classroom. Same person, two versions",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD12_Wk14_Day65_Tue.png",
+  "course": "ELD12",
+  "week": 14,
+  "day": "Tue",
+  "daynum": 65,
+  "scene": "Three students leaning over a large printed chart on a table, one pointing at a bar, all looking where the finger lands",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk14_Day66_Thu.png",
+  "course": "ELD12",
+  "week": 14,
+  "day": "Thu",
+  "daynum": 66,
+  "scene": "A student holding a phone, screen turned away, pausing mid-thought before typing. The moment of choosing words",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk14_Day67_Fri.png",
+  "course": "ELD12",
+  "week": 14,
+  "day": "Fri",
+  "daynum": 67,
+  "scene": "A student at a laptop in a quiet classroom, composing carefully, one hand resting still on the keyboard while they think",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk15_Day68_Mon.png",
+  "course": "ELD12",
+  "week": 15,
+  "day": "Mon",
+  "daynum": 68,
+  "scene": "A school hallway at passing period — students moving with purpose, one glancing up at a wall clock, everybody slightly hurrying",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk15_Day69_Tue.png",
+  "course": "ELD12",
+  "week": 15,
+  "day": "Tue",
+  "daynum": 69,
+  "scene": "A student sitting on a low wall at the edge of campus, looking out toward the city, backpack beside them. Thinking about something further off",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk15_Day71_Thu.png",
+  "course": "ELD12",
+  "week": 15,
+  "day": "Thu",
+  "daynum": 71,
+  "scene": "A classroom in sustained quiet writing — heads down, pens moving, one student pausing to think. Ordinary and settled",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk15_Day72_Fri.png",
+  "course": "ELD12",
+  "week": 15,
+  "day": "Fri",
+  "daynum": 72,
+  "scene": "A teenager working alongside an adult at a small neighborhood business — stocking, organizing, being shown something. Skilled, dignified, unremarkable",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk16_Day73_Mon.png",
+  "course": "ELD12",
+  "week": 16,
+  "day": "Mon",
+  "daynum": 73,
+  "scene": "Students coming back into a classroom after a break — greeting each other, putting bags down, a couple of them laughing. Ordinary and glad",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk16_Day74_Tue.png",
+  "course": "ELD12",
+  "week": 16,
+  "day": "Tue",
+  "daynum": 74,
+  "scene": "A close view of a student's hand with a highlighter over a page, mid-mark. The page shows only paragraph shapes, no words",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk16_Day76_Thu.png",
+  "course": "ELD12",
+  "week": 16,
+  "day": "Thu",
+  "daynum": 76,
+  "scene": "A teenager sitting on the edge of a bed in early light, phone held to their ear, listening. Quiet, warm, entirely ordinary",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk16_Day77_Fri.png",
+  "course": "ELD12",
+  "week": 16,
+  "day": "Fri",
+  "daynum": 77,
+  "scene": "Two printed pages side by side on a desk, a student's hands between them, choosing. Only paragraph shapes on the pages",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk17_Day78_Mon.png",
+  "course": "ELD12",
+  "week": 17,
+  "day": "Mon",
+  "daynum": 78,
+  "scene": "A teacher writing on chart paper at the front of a room, mid-sentence, while students watch. One hand raised with a question",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk17_Day79_Tue.png",
+  "course": "ELD12",
+  "week": 17,
+  "day": "Tue",
+  "daynum": 79,
+  "scene": "A student at a desk with an organizer in front of them, pencil hovering, another page pushed to the side. Deciding, not writing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk17_Day81_Thu.png",
+  "course": "ELD12",
+  "week": 17,
+  "day": "Thu",
+  "daynum": 81,
+  "scene": "A classroom writing in earnest — heads down, pens moving, one student crossing something out. Working, not performing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk17_Day82_Fri.png",
+  "course": "ELD12",
+  "week": 17,
+  "day": "Fri",
+  "daynum": 82,
+  "scene": "Two students exchanging papers across a desk, both leaning in, one pointing at something on the other's page",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk18_Day83_Mon.png",
+  "course": "ELD12",
+  "week": 18,
+  "day": "Mon",
+  "daynum": 83,
+  "scene": "A classroom in full station rotation — five groups doing five different things at once, everyone busy, the teacher at a side table with two students",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk18_Day84_Tue.png",
+  "course": "ELD12",
+  "week": 18,
+  "day": "Tue",
+  "daynum": 84,
+  "scene": "A student's desk covered in their own papers, spread out, hands sorting them into two piles. Looking at the whole semester at once",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk18_Day86_Thu.png",
+  "course": "ELD12",
+  "week": 18,
+  "day": "Thu",
+  "daynum": 86,
+  "scene": "A student writing carefully at a desk, their own older papers stacked beside them. Unhurried, thinking",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD12_Wk18_Day87_Fri.png",
+  "course": "ELD12",
+  "week": 18,
+  "day": "Fri",
+  "daynum": 87,
+  "scene": "The Day-87 picture prompt — the same courtyard as Day 1, transformed for a school festival. First look, today",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk01_Day01_Mon.png",
+  "course": "ELD34",
+  "week": 1,
+  "day": "Mon",
+  "daynum": 1,
+  "scene": "Morning arrival at a San Diego high school — diverse teens greeting each other at the gate",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk01_Day02_Tue.png",
+  "course": "ELD34",
+  "week": 1,
+  "day": "Tue",
+  "daynum": 2,
+  "scene": "Four-panel comic strip: a teen's school morning — alarm, breakfast with family, bus, school gate (no words)",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk01_Day04_Thu.png",
+  "course": "ELD34",
+  "week": 1,
+  "day": "Thu",
+  "daynum": 4,
+  "scene": "Illustrated top-down high-school campus map — office, counseling, library, cafeteria, gym, Room 150 flagged (minimal labels OK)",
+  "skip": "text_bearing",
+  "note": "labelled campus map"
+ },
+ {
+  "file": "ELD34_Wk01_Day05_Fri.png",
+  "course": "ELD34",
+  "week": 1,
+  "day": "Fri",
+  "daynum": 5,
+  "scene": "Split-scene: one teen, two worlds — hometown street on the left, San Diego street on the right",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk02_Day06_Mon.png",
+  "course": "ELD34",
+  "week": 2,
+  "day": "Mon",
+  "daynum": 6,
+  "scene": "Multigenerational family dinner table — crowded, warm, detailed (grandparents to toddlers)",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk02_Day07_Tue.png",
+  "course": "ELD34",
+  "week": 2,
+  "day": "Tue",
+  "daynum": 7,
+  "scene": "Teen backpack flat-lay — books, phone, earbuds, snacks, keys, a family photo, soccer cleats",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk02_Day09_Thu.png",
+  "course": "ELD34",
+  "week": 2,
+  "day": "Thu",
+  "daynum": 9,
+  "scene": "Two teens interviewing each other podcast-style — notebook, mic, headphones, laughing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk02_Day10_Fri.png",
+  "course": "ELD34",
+  "week": 2,
+  "day": "Fri",
+  "daynum": 10,
+  "scene": "Identity collage — objects swirling around a teen silhouette: flags, food, ball, books, music, bus, family photos",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk03_Day11_Mon.png",
+  "course": "ELD34",
+  "week": 3,
+  "day": "Mon",
+  "daynum": 11,
+  "scene": "School counseling office — counselor helping a teen with a schedule at a desk, warm and unintimidating",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk03_Day12_Tue.png",
+  "course": "ELD34",
+  "week": 3,
+  "day": "Tue",
+  "daynum": 12,
+  "scene": "REUSE Thursday Week 1 campus-map image (Do Now #3) — same map, new question",
+  "skip": "reuse",
+  "note": "ELD34_Wk01_Day04_Thu.png (same campus map)"
+ },
+ {
+  "file": "ELD34_Wk03_Day14_Thu.png",
+  "course": "ELD34",
+  "week": 3,
+  "day": "Thu",
+  "daynum": 14,
+  "scene": "Room 150 interior — team desk pods, word wall with flags, station icon posters, warm classroom",
+  "skip": "photo",
+  "note": "Room 150 interior - real photo preferred"
+ },
+ {
+  "file": "ELD34_Wk03_Day15_Fri.png",
+  "course": "ELD34",
+  "week": 3,
+  "day": "Fri",
+  "daynum": 15,
+  "scene": "Nervous newcomer teen at the school entrance holding a schedule, students passing by — one turning back to help",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk04_Day16_Mon.png",
+  "course": "ELD34",
+  "week": 4,
+  "day": "Mon",
+  "daynum": 16,
+  "scene": "A teenager mid-walk on a City Heights sidewalk, backpack on, head turning sharply toward something off-frame — caught in the middle of one thing by another",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk04_Day17_Tue.png",
+  "course": "ELD34",
+  "week": 4,
+  "day": "Tue",
+  "daynum": 17,
+  "scene": "A split moment in a kitchen — someone cooking at the stove while a younger sibling holds up homework, both mid-action, neither waiting",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk04_Day19_Thu.png",
+  "course": "ELD34",
+  "week": 4,
+  "day": "Thu",
+  "daynum": 19,
+  "scene": "Two students facing each other, one talking with an open hand while the other listens closely and nods — an interview in progress, not a conversation",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk04_Day20_Fri.png",
+  "course": "ELD34",
+  "week": 4,
+  "day": "Fri",
+  "daynum": 20,
+  "scene": "A four-panel strip following the same student through one day — early morning, mid-commute, afternoon, evening — light shifting across the panels",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk05_Day21_Tue.png",
+  "course": "ELD34",
+  "week": 5,
+  "day": "Tue",
+  "daynum": 21,
+  "scene": "A hand arranging cut paper word-parts on a desk into three colour-coded groups — the physical act of breaking a word open",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk05_Day23_Thu.png",
+  "course": "ELD34",
+  "week": 5,
+  "day": "Thu",
+  "daynum": 23,
+  "scene": "A teenager looking at a wall or notebook holding months of accumulated work — evidence of time passing and effort adding up",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk05_Day24_Fri.png",
+  "course": "ELD34",
+  "week": 5,
+  "day": "Fri",
+  "daynum": 24,
+  "scene": "A completed word-attack chart on a desk with coloured word-parts arranged beside it — the whole week's method in one frame",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk06_Day25_Mon.png",
+  "course": "ELD34",
+  "week": 6,
+  "day": "Mon",
+  "daynum": 25,
+  "scene": "Three students leaning over a large printed bar chart on a table, one pointing at a tall bar, the others following the gesture",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk06_Day26_Tue.png",
+  "course": "ELD34",
+  "week": 6,
+  "day": "Tue",
+  "daynum": 26,
+  "scene": "A classroom in quiet independent work at laptops, headphones on, unhurried — ordinary, not tense",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk06_Day28_Thu.png",
+  "course": "ELD34",
+  "week": 6,
+  "day": "Thu",
+  "daynum": 28,
+  "scene": "Two students at a chart, one gesturing at a bar while the other listens with a slight frown — a disagreement about evidence, not about each other",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk06_Day29_Fri.png",
+  "course": "ELD34",
+  "week": 6,
+  "day": "Fri",
+  "daynum": 29,
+  "scene": "A student writing beside a printed chart, glancing between the page and the chart — the act of turning data into prose",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk07_Day30_Mon.png",
+  "course": "ELD34",
+  "week": 7,
+  "day": "Mon",
+  "daynum": 30,
+  "scene": "Two paper strips being joined end to end by a pair of hands on a desk — two things becoming one thing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk07_Day31_Tue.png",
+  "course": "ELD34",
+  "week": 7,
+  "day": "Tue",
+  "daynum": 31,
+  "scene": "A student handing a folded note to a teacher at a desk, the teacher already reaching for a pen — a request producing an answer",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk07_Day33_Thu.png",
+  "course": "ELD34",
+  "week": 7,
+  "day": "Thu",
+  "daynum": 33,
+  "scene": "Two students side by side over a single page, one pointing at a line while the other holds a pencil ready — revision, not correction",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk07_Day34_Fri.png",
+  "course": "ELD34",
+  "week": 7,
+  "day": "Fri",
+  "daynum": 34,
+  "scene": "A student's hands at a laptop, screen angled away and blank, pausing before sending something that matters",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk08_Day35_Mon.png",
+  "course": "ELD34",
+  "week": 8,
+  "day": "Mon",
+  "daynum": 35,
+  "scene": "Several pairs of hands preparing food at one table — an elder's hands and a teenager's among them, mid-task, warm kitchen light",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk08_Day36_Tue.png",
+  "course": "ELD34",
+  "week": 8,
+  "day": "Tue",
+  "daynum": 36,
+  "scene": "Students in a lunch line with trays, one mid-decision between two options, a server behind the counter",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk08_Day38_Thu.png",
+  "course": "ELD34",
+  "week": 8,
+  "day": "Thu",
+  "daynum": 38,
+  "scene": "Two students at a corner-store counter examining a package together, heads close, one pointing at it — curiosity, not judgment",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk08_Day39_Fri.png",
+  "course": "ELD34",
+  "week": 8,
+  "day": "Fri",
+  "daynum": 39,
+  "scene": "Four students eating together at an outdoor table mid-conversation, food shared between them, easy and unremarkable",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk09_Day40_Mon.png",
+  "course": "ELD34",
+  "week": 9,
+  "day": "Mon",
+  "daynum": 40,
+  "scene": "Two students facing each other, one holding a clipboard mid-question, the other answering with an open gesture",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk09_Day41_Tue.png",
+  "course": "ELD34",
+  "week": 9,
+  "day": "Tue",
+  "daynum": 41,
+  "scene": "Three students at a table mid-discussion, one counting points on their fingers while the others follow",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk09_Day43_Thu.png",
+  "course": "ELD34",
+  "week": 9,
+  "day": "Thu",
+  "daynum": 43,
+  "scene": "A classroom in calm independent work, one hand raised, the teacher moving between rows — ordinary and unhurried",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk09_Day44_Fri.png",
+  "course": "ELD34",
+  "week": 9,
+  "day": "Fri",
+  "daynum": 44,
+  "scene": "The Day-1 baseline image back on the screen — the same picture students described on their very first day",
+  "skip": "reuse",
+  "note": "ELD34_Day1_CommunityGarden.png"
+ },
+ {
+  "file": "ELD34_Wk10_Day45_Tue.png",
+  "course": "ELD34",
+  "week": 10,
+  "day": "Tue",
+  "daynum": 45,
+  "scene": "A City Heights corner where a bus stop and a trolley platform are both visible, a student between them deciding",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk10_Day47_Thu.png",
+  "course": "ELD34",
+  "week": 10,
+  "day": "Thu",
+  "daynum": 47,
+  "scene": "A City Heights street corner, one person pointing while another follows the gesture with their eyes",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk10_Day48_Fri.png",
+  "course": "ELD34",
+  "week": 10,
+  "day": "Fri",
+  "daynum": 48,
+  "scene": "A wide City Heights street in afternoon light with several ways to travel visible at once — walking, a bike, a bus, a trolley beyond",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk11_Day49_Mon.png",
+  "course": "ELD34",
+  "week": 11,
+  "day": "Mon",
+  "daynum": 49,
+  "scene": "An evening neighbourhood gathering — strung lights, a long table, people of several ages talking and eating, someone playing music",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk11_Day50_Tue.png",
+  "course": "ELD34",
+  "week": 11,
+  "day": "Tue",
+  "daynum": 50,
+  "scene": "Several pairs of hands preparing for a celebration at one table — folding paper, arranging flowers, stirring a pot",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk11_Day52_Thu.png",
+  "course": "ELD34",
+  "week": 11,
+  "day": "Thu",
+  "daynum": 52,
+  "scene": "A diptych — two clearly different celebration tables side by side, both warm, both full, neither richer than the other",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk11_Day53_Fri.png",
+  "course": "ELD34",
+  "week": 11,
+  "day": "Fri",
+  "daynum": 53,
+  "scene": "The classroom itself — students showing each other photos and objects on their desks, several small conversations at once",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk12_Day54_Mon.png",
+  "course": "ELD34",
+  "week": 12,
+  "day": "Mon",
+  "daynum": 54,
+  "scene": "A diptych: the same student relaxed with friends outdoors, then upright and attentive in a counselor's office",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk12_Day55_Tue.png",
+  "course": "ELD34",
+  "week": 12,
+  "day": "Tue",
+  "daynum": 55,
+  "scene": "A student at a laptop, screen angled away and blank, pausing with hands on the keys before sending something that matters",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk12_Day57_Thu.png",
+  "course": "ELD34",
+  "week": 12,
+  "day": "Thu",
+  "daynum": 57,
+  "scene": "A diptych of two clearly different classrooms — different desks, different light, both full and both working",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk12_Day58_Fri.png",
+  "course": "ELD34",
+  "week": 12,
+  "day": "Fri",
+  "daynum": 58,
+  "scene": "A student standing at an open office doorway, folder in hand, about to ask for something",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk13_Day59_Mon.png",
+  "course": "ELD34",
+  "week": 13,
+  "day": "Mon",
+  "daynum": 59,
+  "scene": "A student sitting on the edge of a cot in a school health office, talking; the nurse listening at eye level. Calm and ordinary",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk13_Day60_Tue.png",
+  "course": "ELD34",
+  "week": 13,
+  "day": "Tue",
+  "daynum": 60,
+  "scene": "Four students around a table mid-discussion, one leaning in with an open hand while another begins to respond",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk13_Day62_Thu.png",
+  "course": "ELD34",
+  "week": 13,
+  "day": "Thu",
+  "daynum": 62,
+  "scene": "Two students on outdoor steps, one talking earnestly while the other listens closely",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk13_Day63_Fri.png",
+  "course": "ELD34",
+  "week": 13,
+  "day": "Fri",
+  "daynum": 63,
+  "scene": "Three students around a table with cards spread between them, one writing while the others watch the page",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk14_Day64_Mon.png",
+  "course": "ELD34",
+  "week": 14,
+  "day": "Mon",
+  "daynum": 64,
+  "scene": "A diptych showing the same student — relaxed with friends outdoors, then upright and attentive in class",
+  "skip": null,
+  "panels": true
+ },
+ {
+  "file": "ELD34_Wk14_Day65_Tue.png",
+  "course": "ELD34",
+  "week": 14,
+  "day": "Tue",
+  "daynum": 65,
+  "scene": "Three students over a large printed chart on a table, one pointing at a bar while the others follow",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk14_Day66_Thu.png",
+  "course": "ELD34",
+  "week": 14,
+  "day": "Thu",
+  "daynum": 66,
+  "scene": "Two students at a table, one speaking while the other listens with visible attention rather than waiting to reply",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk14_Day67_Fri.png",
+  "course": "ELD34",
+  "week": 14,
+  "day": "Fri",
+  "daynum": 67,
+  "scene": "A student at a laptop with a printed chart beside them, screen angled away and blank, thinking before typing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk15_Day68_Mon.png",
+  "course": "ELD34",
+  "week": 15,
+  "day": "Mon",
+  "daynum": 68,
+  "scene": "A school hallway at passing period — students moving with purpose, one glancing up at a wall clock",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk15_Day69_Tue.png",
+  "course": "ELD34",
+  "week": 15,
+  "day": "Tue",
+  "daynum": 69,
+  "scene": "A student sitting on a low wall at the edge of campus, looking out over the neighbourhood toward the hills",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk15_Day71_Thu.png",
+  "course": "ELD34",
+  "week": 15,
+  "day": "Thu",
+  "daynum": 71,
+  "scene": "A classroom in sustained quiet writing — heads down, pens moving, one student pausing to think",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk15_Day72_Fri.png",
+  "course": "ELD34",
+  "week": 15,
+  "day": "Fri",
+  "daynum": 72,
+  "scene": "A teenager working alongside an adult in a small neighbourhood business — being shown something, doing it well",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk16_Day73_Mon.png",
+  "course": "ELD34",
+  "week": 16,
+  "day": "Mon",
+  "daynum": 73,
+  "scene": "Students returning to a classroom after a break — greeting each other, bags down, a couple laughing",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk16_Day74_Tue.png",
+  "course": "ELD34",
+  "week": 16,
+  "day": "Tue",
+  "daynum": 74,
+  "scene": "A close view of a hand with a highlighter over a printed page, mid-stroke, a pencil nearby",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk16_Day76_Thu.png",
+  "course": "ELD34",
+  "week": 16,
+  "day": "Thu",
+  "daynum": 76,
+  "scene": "Two students over a single page, one pointing at a line while the other holds a pencil ready",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk16_Day77_Fri.png",
+  "course": "ELD34",
+  "week": 16,
+  "day": "Fri",
+  "daynum": 77,
+  "scene": "Two printed pages side by side on a desk, a student's hands between them, choosing which to answer",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk17_Day78_Mon.png",
+  "course": "ELD34",
+  "week": 17,
+  "day": "Mon",
+  "daynum": 78,
+  "scene": "A teacher at chart paper mid-sentence, half-turned back toward the class; one student's hand raised",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk17_Day79_Tue.png",
+  "course": "ELD34",
+  "week": 17,
+  "day": "Tue",
+  "daynum": 79,
+  "scene": "A student at a desk with an organizer in front of them, pencil hovering, a second page pushed aside",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk17_Day81_Thu.png",
+  "course": "ELD34",
+  "week": 17,
+  "day": "Thu",
+  "daynum": 81,
+  "scene": "A classroom writing in earnest — heads down, pens moving, one student crossing something out",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk17_Day82_Fri.png",
+  "course": "ELD34",
+  "week": 17,
+  "day": "Fri",
+  "daynum": 82,
+  "scene": "Two students exchanging papers across a desk, one pointing at something on the other's page",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk18_Day83_Mon.png",
+  "course": "ELD34",
+  "week": 18,
+  "day": "Mon",
+  "daynum": 83,
+  "scene": "A classroom in full station rotation — five groups doing five different things at once, the teacher at a side table with two students",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk18_Day84_Tue.png",
+  "course": "ELD34",
+  "week": 18,
+  "day": "Tue",
+  "daynum": 84,
+  "scene": "A desk covered in a student's own papers, spread out, hands sorting them into two piles",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk18_Day86_Thu.png",
+  "course": "ELD34",
+  "week": 18,
+  "day": "Thu",
+  "daynum": 86,
+  "scene": "A student writing carefully at a desk, a stack of their own older papers beside them",
+  "skip": null,
+  "panels": false
+ },
+ {
+  "file": "ELD34_Wk18_Day87_Fri.png",
+  "course": "ELD34",
+  "week": 18,
+  "day": "Fri",
+  "daynum": 87,
+  "scene": "A new picture prompt — parallel to Day 1 in format, deliberately more complex. First look, today",
+  "skip": "already_made",
+  "note": "ELD34_Day87_Mural.png"
+ }
+]
